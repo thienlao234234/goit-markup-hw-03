@@ -28,10 +28,7 @@ h3 {
 }
 
 header {
-	padding: 20px 200px;
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
+	border-bottom: 1px solid #e7e9fc;
 }
 
 footer {
