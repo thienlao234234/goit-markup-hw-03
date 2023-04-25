@@ -9,7 +9,7 @@ img {
 h1, h2, h3, h4, h5, h6 {
 	margin: 0;
 	font-family: 'Bebas Neue', cursive;
-	display: flex;
+	
 }
 
 p {
@@ -133,6 +133,7 @@ ul {
 	padding-bottom: 188px;
 	background: rgb(46, 47, 66);
 	text-align: center;
+	display: flex;
 }
 
 .section__2 {
