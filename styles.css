@@ -2,7 +2,7 @@ body {
 	margin: 0;
 }
 img {
-	display: block;
+	display: block !important;
 	}
 
 
