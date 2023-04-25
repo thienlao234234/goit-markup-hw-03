@@ -2,7 +2,7 @@ body {
 	margin: 0;
 }
 img {
-	display: block !important;
+	display: block ;
 	}
 
 
@@ -29,9 +29,11 @@ h3 {
 
 header {
 	border-bottom: 1px solid #e7e9fc;
-	width: 1158px; 
-	display: flex; 
-	padding: 0 15px 0 15px;
+	display: flex;
+	width: 1158px;
+	padding-left: 15px;
+	padding-right: 15px;
+ 
 }
 
 footer {
