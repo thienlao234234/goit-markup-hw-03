@@ -86,8 +86,8 @@ ul {
 }
 
 .nav {
-	text-align: center;
-	display: inline-flex;
+
+	display: flex;
 	align-items: center;
 }
 
@@ -127,8 +127,9 @@ ul {
 }
 
 .section__1 {
+	max-width: 496px;
+	padding: 188px 0;
 	background: rgb(46, 47, 66);
-	padding: 300px 0;
 	text-align: center;
 }
 
